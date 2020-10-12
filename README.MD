@@ -1,0 +1,2 @@
+# RANSOMWARE Extension and Note
+
