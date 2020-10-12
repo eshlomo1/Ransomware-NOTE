@@ -1,0 +1,347 @@
+## Ransomware Notes
+
+*recover_instructions.txt
+*restore_fi*.*
+*ukr.net*
+*want%syour%sfiles%sback.*
+_how_recover.txt
+_locky_recover_instructions.txt
+_secret_code.txt
+coin.locker.txt
+confirmation.key
+cryptolocker.*
+decrypt_help.*
+decrypt_instruct*.*
+decrypt_instruction.txt
+decrypt_instructions.txt
+decrypt_readme.txt
+decryptallfiles.txt
+djqfu*.*
+enc_files.txt
+filesaregone.txt
+hellothere.txt
+help_decrypt*.*
+help_decrypt.txt
+help_recover*.*
+help_recover_instructions+*.txt
+help_restore*.*
+help_to_decrypt_your_files.txt
+help_to_save_files.txt
+help_your_file*.*
+help_your_files.*
+helpdecrypt*.*
+how%sto%sdecrypt*.*
+how_decrypt*.*
+how_recover*.*
+how_to_decrypt*.*
+how_to_decrypt_files.txt
+how_to_recover*.*
+how_to_recover_files.txt
+howrecover+*.txt
+howto_recover_file.txt
+howto_restore*.*
+howto_restore_file*.*
+howto_restore_files.txt
+howtodecrypt*.*
+howtorestore*.txt
+iamreadytopay.txt
+ihaveyoursecret.key
+install_tor*.*
+instructions_xxxx.png
+last_chance.*
+message.txt
+readdecryptfileshere.txt
+readme_decrypt*.*
+readme_for_decrypt*.*
+readthisnow!!!.txt
+recoverfile*.txt
+recovery_file*.txt
+recovery_file.txt
+recovery_files.txt
+recovery_key.txt
+recoveryfile*.txt
+restore_fi.*
+restorefiles.txt
+secret.key
+secretidhere.key
+vault.hta
+vault.key
+vault.txt
+your_files.html
+your_files.url
+!!! For Decrypt !!!.bat
+!!! HOW TO DECRYPT FILES !!!.txt
+!!! Readme For Decrypt !!!.txt
+!!!!!ATEN??O!!!!!.html
+!!!README!!!*.rtf
+!!!READ_TO_UNLOCK!!!.TXT
+!Recovery_*.html
+!Recovery_*.txt
+!Where_are_my_files!.html
+!_HOW_TO_RESTORE_*.txt
+!_RECOVERY_HELP_!.txt
+!satana!.txt
+# !!!HELP_FILE!!! #.txt
+# DECRYPT MY FILES #.*
+# README.hta
+# RESTORING FILES #.*
+###-READ-FOR-HELLPP.html
+#_DECRYPT_ASSISTANCE_#.txt
+#_HOW_TO_FIX_!.hta
+*!recover!*
+*-READ-FOR-DECCCC-FILESSS.html
+*-READ-FOR-HELLPP.html
+*-filesencrypted.html
+*@gmail_com_*
+*@india.com*
+*@qq_com*
+*FILES_ARE_ENCRYPTED*
+*Instructions_Data_Recovery.txt
+*MATRIX-README.RTF
+*RECOVER_INSTRUCTIONS*
+*[cryptservice@inbox.ru]*
+*[cryptsvc@mail.ru].*
+*_.code
+*_.rmd
+*_DECRYPT_INFO_*
+*_HELP_instructions.html
+*_HOWDO_text.*
+*_READ_THIS_FILE_*_*
+*_WHAT_is.html
+*_crypt
+*_nullbyte*
+*_ryp
+*bingo@opensourcemail.org
+*decrypt my file*.*
+*decrypt your file*.*
+*decrypt_your_files.html
+*decryptmyfiles*.*
+*decryptservice.info
+*help_restore*.*
+*helpdecrypt@ukr.net*
+*how_to_recover*.*
+*hydracrypt*
+*id*@*.scl
+*install_tor*
+*keemail.me*
+*maestro@pizzacrypts.info
+*obleep
+*opentoyou@india.com
+*protonmail.ch
+*qq_com*
+*rec0ver*.*
+*secret*.key
+*want your files back.*
+000-IF-YOU-WANT-DEC-FILES.html
+000-No-PROBLEM-WE-DEC-FILES.html
+000-PLEASE-READ-WE-HELP.html
+001-READ-FOR-DECRYPT-FILES.html
+@WARNING_FILES_ARE_ENCRYPTED.*.txt
+@_USE_TO_FIX_*.txt
+ABCXYZ11*
+ASSISTANCE_IN_RECOVERY.txt
+ATTENTION!!!.txt
+ATTENTION.url
+About_Files.txt
+AllFilesAreLocked*.bmp
+BTC_DECRYPT_FILES.txt
+BUYUNLOCKCODE.txt
+BitCryptorFileList.txt
+CHIP_FILES.txt
+Coin.Locker.txt*
+DALE_FILES.TXT
+DECRYPTION_HOWTO.Notepad
+DECRYPT_INFORMATION.html
+DECRYPT_INSTRUCTION*
+DECRYPT_Readme*
+DECRYPT_YOUR_FILES.*
+Decrypt All Files *.bmp
+DecryptAllFiles*.txt
+DecryptFile.txt
+Decrypted.txt
+DesktopOSIRIS.*
+Digisom Readme?.txt
+FILESAREGONE.TXT
+FILES_BACK.txt
+FILES_ENCRYPTED-READ_ME.HTML
+File Decrypt Help.html
+GetYouFiles.txt
+HELP-ME-ENCED-FILES.html
+HELP_ME_PLEASE.txt
+HELP_RECOVER_FILES.txt
+HELP_RESTORE_FILES_*
+HELP_TO_DECRYPT_YOUR_FILES.txt
+HELP_TO_SAVE_FILES.*
+HELP_YOURFILES.HTML
+HELP_YOUR_FILES.*
+HOW TO DECODE FILES!!!.txt
+HOW-TO-DECRYPT-FILES.HTML
+HOWTO_RECOVER_FILES_*
+HOW_OPEN_FILES.*
+HOW_TO_FIX_!.TXT
+HOW_TO_RESTORE_YOUR_DATA.html
+HOW_TO_UNLOCK_FILES*
+Hacked_Read_me_to_decrypt_files.html
+Help Decrypt.html
+How Decrypt My Files.*
+How decrypt files.hta
+How to decrypt your data.txt
+How to decrypt your files.txt
+How to get data back.txt
+How to restore files.hta
+HowDecrypt.*
+How_Decrypt_My_Files.*
+How_to_restore_files.*
+HowtoRESTORE_FILES.txt
+IAMREADYTOPAY.TXT
+IF_WANT_FILES_BACK_PLS_READ.html
+IHAVEYOURSECRET.KEY
+IMPORTANT.README
+INSTRUCTION RESTORE FILE.TXT
+INSTRUCTIONS_*.png
+Instructionaga.txt
+KryptoLocker_README.txt
+MENSAGEM.txt
+MERRY_I_LOVE_YOU_BRUCE.hta
+OKSOWATHAPPENDTOYOURFILES.*
+PLAGUE17.txt
+PLEASE-READIT-IF_YOU-WANT.html
+Payment_Advice.mht
+Payment_Instructions.jpg
+RANSOM_NOTE.txt
+READ IF YOU WANT YOUR FILES BACK.html
+READ ME ABOUT DECRYPTION.txt
+READ ME FOR DECRYPT.txt
+READ-READ-READ.html
+READ@My.txt
+README HOW TO DECRYPT YOUR FILES.HTML
+README_DECRYPT_HYRDA_ID_*
+README_DECRYPT_UMBRE*
+README_HOW_TO_UNLOCK.*
+README_RECOVER_FILES_*
+README_TO_RECURE_YOUR_FILES.txt
+READTHISNOW!!!.TXT
+READ_IT.txt
+READ_THIS_TO_DECRYPT.html
+RECOVERY_FILE*.TXT
+RECOVERY_FILES*.txt
+RESTORE_ALL_DATA.html
+RESTORE_CORUPTED_FILES.HTML
+RESTORE_FILES_*
+Rans0m_N0te_Read_ME.txt
+Read Me (How Decrypt) !!!!.txt
+ReadDecryptFilesHere.txt
+ReadMeFilesDecrypt!!!.txt
+SECRET.KEY
+SECRETIDHERE.KEY
+SHTODELATVAM.txt
+Sarah_G@ausi.com___*
+TRY-READ-ME-TO-DEC.html
+Take_Seriously (Your saving grace).txt
+ThxForYurTyme.txt
+UNLOCKYOURFILES.html
+UNLOCK_FILES_INSTRUCTIONS.*
+UnblockFiles.vbs
+VictemKey_*_*
+WE-MUST-DEC-FILES.html
+WHAT IS SQ_.txt
+WHERE-YOUR-FILES.html
+What happen to my files.txt
+YOUGOTHACKED.TXT
+YOUR FILES ARE ENCRYPTED!.txt
+YOUR_FILES.HTML
+YOUR_FILES.url
+YOUR_FILES_ARE_DEAD.HTA
+YOUR_FILES_ARE_ENCRYPTED.*
+YOUR_FILES_ARE_LOCKED*.txt
+Your files are locked*.txt
+Your files encrypted by our friends*.txt
+Your files encrypted*.txt
+Your files have been crypted.html
+YourID.txt
+ZINO_NOTE.TXT
+[KASISKI]*
+_*_HOWDO_text.html
+_DECRYPT_INFO_*.html
+_HELP_HELP_HELP_*.*
+_HELP_Recover_Files_.html
+_HELP_instructions.*
+_HOWDO_text.html
+_HOW_TO_Decrypt.bmp
+_H_e_l_p_RECOVER_INSTRUCTIONS*
+_README_*.hta
+_READ_THI$_FILE_*
+_RECOVER_INSTRUCTIONS.ini
+_WHAT_is.html
+_how_recover*
+_locky_recover_instructions.*
+bahij2@india.com
+crjoker.html
+cryptinfo.txt
+de_crypt_readme.*
+decipher_ne@outlook.com*
+decrypt explanations.html
+decrypt.txt
+decrypting.txt
+decypt_your_files.html
+enigma.hta
+enigma_encr.txt
+enigma_info.txt
+exit.hhr.obleep
+file0locked.js
+fs0ciety.html
+help recover files.txt
+help-file-decrypt.enc
+help_file_*.*
+help_instructions.*
+help_recover_instructions*
+helpdecrypt*
+how to decrypt*
+how to get data.txt
+how_decrypt*
+how_recover*
+how_to_decrypt*
+how_to_recover*
+howrecover*.txt
+howto_restore*
+howtodecrypt*
+lblBitcoinInfoMain.txt
+lblFinallyText.txt
+lblMain.txt
+locked.bmp
+maxcrypt.bmp
+osiris*.htm
+paycrypt.bmp
+pronk.txt
+qwer.html
+qwer?.html
+ransomed.html
+read_this_file.txt
+readme_decrypt*
+tox.html
+trun.txt
+umbrecrypt*
+unCrypte@outlook.com*
+unlock-everybody.txt
+where_are_your_files.txt
+winclwp.jpg
+xort.txt
+readme_for_decrypt*
+readme_your_files_have_been_encrypted.txt
+recover.bmp
+recover.txt
+recover?????.html
+recover?????.png
+recover?????.txt
+recoverfile*
+recovery+?????.html
+recovery+?????.png
+recovery+?????.txt
+recovery?????.html
+recovery?????.png
+recovery?????.txt
+recoveryfile*
+restore_Files.html
+restore_Files.txt
+restore_your_files.*
+strongcrypt.bmp
